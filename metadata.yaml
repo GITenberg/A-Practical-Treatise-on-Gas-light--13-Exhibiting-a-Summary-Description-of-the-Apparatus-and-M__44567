@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8418
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Accum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44567#A-Practical-Treatise-on-Gas-light--13-Exhibiting-a-Summary-Description-of-the-Apparatus-and-M_
 gutenberg_issued: '2014-01-02'
 gutenberg_type: Text
 identifiers:

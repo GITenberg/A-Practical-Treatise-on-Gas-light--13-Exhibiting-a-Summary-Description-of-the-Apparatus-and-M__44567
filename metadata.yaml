@@ -1,0 +1,33 @@
+_repo: A-Practical-Treatise-on-Gas-light--13-Exhibiting-a-Summary-Description-of-the-Apparatus-and-M__44567
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44567-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Accum, Friedrich Christian
+    alias: Accum, Fredrick
+    birthdate: 1769
+    deathdate: 1838
+    gutenberg_agent_id: '8418'
+    url: http://www.gutenberg.org/2009/agents/8418
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Accum
+description: ''
+gutenberg_issued: '2014-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44567'
+  lccn: '42028538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TH'
+- !lcsh 'Gas-lighting'
+- !lcsh 'Candles'
+title: "A Practical Treatise on Gas-light\r\nExhibiting a Summary Description of the\
+  \ Apparatus and Machinery Best Calculated for Illuminating Streets, Houses, and\
+  \ Manufactories, with Carburetted Hydrogen, or Coal-Gas, with Remarks on the Utility,\
+  \ Safety, and General Nature of this new Branch of Civil Economy."
+url: http://www.gutenberg.org/ebooks/44567
